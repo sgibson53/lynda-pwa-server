@@ -1,0 +1,2 @@
+{"name":"Flat White","place":"My Cafe","location":{"address":"My Street","city":"Circleville, OH","latitude":29.780539299999997,"longitude":-95.4500614},"tastingRating":{"flavor":5,"sweetness":2},"type":"Espresso","rating":9,"notes":"Awesomeness!","_id":"LswBdxqFVU9Ha9rV"}
+{"name":"Frape Espresso","place":"Fake Place","location":{"address":"Fake Street","city":"Any City","latitude":29.7805814,"longitude":-95.4502069},"tastingRating":{},"type":"Frappe","rating":3,"_id":"vcYwFvs1IMvmtJgR"}
